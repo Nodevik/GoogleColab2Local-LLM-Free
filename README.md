@@ -213,6 +213,9 @@ Recommended:
 | llama3.1:8b | ~5GB | General purpose |
 | mistral:7b | ~4GB | Fast responses |
 
+you can use any model -
+your model size = your drive space
+
 ---
 
 # ⚡ Why Google Colab?
